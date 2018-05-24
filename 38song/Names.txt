@@ -1,0 +1,38 @@
+1	./DragonForce-Our Final Stand.mp3
+2	./DragonForce-Judgement Day.mp3
+3	./07 Mozart_ Horn Concerto No.1 In D, K412 _514 - 1. Allegro.m4a
+4	./DragonForce-Reaching Into Infinity.mp3
+5	./08 Mozart_ Horn Concerto No.1 In D, K412 _514 - 2. Rondo. Allegro.m4a
+6	./04 Mozart_ Horn Concerto No.2 In E Flat, K417 - 1. Allegro Maestoso.m4a
+7	./Heart of the Storm.mp3
+8	./Power of the Ninja Sword.mp3
+9	./DragonForce-Astral Empire.mp3
+10	./01 Mozart_ Horn Concerto No.3 In E Flat, K447 - 1. Allegro.m4a
+11	./DragonForce-Curse Of Darkness.mp3
+12	./Last Man Stands.mp3
+13	./DragonForce-Hatred And Revenge (Bonus Track).mp3
+14	./10 Mozart_ Horn Concerto No.4 In E Flat, K495 - 2. Romanza. Andante.m4a
+15	./DragonForce-Midnight Madness.mp3
+16	./02 Mozart_ Horn Concerto No.3 In E Flat, K447 - 2. Romance. Larghetto.m4a
+17	./05 Mozart_ Horn Concerto No.2 In E Flat, K417 - 2. Andante.m4a
+18	./DragonForce-Ashes Of The Dawn.mp3
+19	./06 Mozart_ Horn Concerto No.2 In E Flat, K417 - 3. Rondo.m4a
+20	./11 Mozart_ Horn Concerto No.4 In E Flat, K495 - 3. Rondo. Allegro Vivace.m4a
+21	./Die by the Sword.mp3
+22	./Dragonforce - Trail of Broken Hearts.mp3
+23	./DragonForce - Storming the Burning Fields.mp3
+24	./Avant La Tempête.mp3
+25	./Dragonforce - Cry for Eternity.mp3
+26	./DragonForce-Silence.mp3
+27	./Dragonforce - The Flame of Youth.mp3
+28	./09 Mozart_ Horn Concerto No.4 In E Flat, K495 - 1. Allegro Moderato.m4a
+29	./DragonForce-The Edge Of The World.mp3
+30	./Give Me the Night.mp3
+31	./Seasons (Acoustic).mp3
+32	./Fallen World.mp3
+33	./DragonForce-Evil Dead (Bonus Track).mp3
+34	./Body Breakdown.mp3
+35	./Heart of the Storm (Alternative).mp3
+36	./03 Mozart_ Horn Concerto No.3 In E Flat, K447 - 3 In E Flat, K447 - 3. Allegro.m4a
+37	./DragonForce-War!.mp3
+38	./DragonForce-Land Of Shattered Dreams.mp3
